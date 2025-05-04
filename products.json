@@ -1,14 +1,59 @@
-[
-  {
-    "id": "safephone",
-    "name": "SafePhone",
-    "description": "Poistenie mobilu pred poškodením a krádežou",
-    "price": 4.9
-  },
-  {
-    "id": "safehome",
-    "name": "SafeHome",
-    "description": "Poistenie domácnosti vrátane spotrebičov",
-    "price": 12.9
-  }
-]
+{
+  "categories": [
+    {
+      "name": "Home",
+      "products": [
+        {
+          "id": "safehome",
+          "name": "SafeHome",
+          "description": "Poistenie domácnosti vrátane spotrebičov",
+          "price": 12.9
+        }
+      ]
+    },
+    {
+      "name": "Health",
+      "products": [
+        {
+          "id": "safehealth",
+          "name": "SafeHealth",
+          "description": "Poistenie zdravia a úrazu",
+          "price": 9.9
+        }
+      ]
+    },
+    {
+      "name": "Phone",
+      "products": [
+        {
+          "id": "safephone",
+          "name": "SafePhone",
+          "description": "Poistenie mobilu pred poškodením a krádežou",
+          "price": 4.9
+        }
+      ]
+    },
+    {
+      "name": "Laptop",
+      "products": [
+        {
+          "id": "safelaptop",
+          "name": "SafeLaptop",
+          "description": "Poistenie notebooku pre freelancerov",
+          "price": 7.9
+        }
+      ]
+    },
+    {
+      "name": "Travel",
+      "products": [
+        {
+          "id": "safetravel",
+          "name": "SafeTravel",
+          "description": "Cestovné poistenie pre dovolenky a služobné cesty",
+          "price": 6.5
+        }
+      ]
+    }
+  ]
+}
