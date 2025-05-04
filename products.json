@@ -1,0 +1,14 @@
+[
+  {
+    "id": "safephone",
+    "name": "SafePhone",
+    "description": "Poistenie mobilu pred poškodením a krádežou",
+    "price": 4.9
+  },
+  {
+    "id": "safehome",
+    "name": "SafeHome",
+    "description": "Poistenie domácnosti vrátane spotrebičov",
+    "price": 12.9
+  }
+]
